@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lil&#39;Soak Designs</title>
+    <link>http://lilsoak.com/</link>
+    <description>Recent content on Lil&#39;Soak Designs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 10:38:29 -0700</lastBuildDate>
+    
+	<atom:link href="http://lilsoak.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://lilsoak.com/posts/about/</link>
+      <pubDate>Mon, 25 May 2020 10:38:29 -0700</pubDate>
+      
+      <guid>http://lilsoak.com/posts/about/</guid>
+      <description>On Pause First, an update! Lil&amp;rsquo;Soak Designs is currently on pause. As much as we passionately believed in the project (and still do), circumstances and economics mean that we aren&amp;rsquo;t able to keep it going right now. So, for now, we aren&amp;rsquo;t able to share stories and products from brilliant artisans around the world, but we still believe that you can make a difference by thinking carefully about who is making and benefiting from the products you buy, and hope that someday we will return to this project and try again.</description>
+    </item>
+    
+  </channel>
+</rss>
